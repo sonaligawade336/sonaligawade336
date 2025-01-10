@@ -1,3 +1,5 @@
+![logo](https://github.com/sonaligawade336/sonaligawade336/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sonali Gawade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
