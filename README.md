@@ -1,4 +1,4 @@
-<img align="center" width="400" height="400" src="https://media.licdn.com/dms/image/v2/D5612AQF9yv1zwY1uyw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1727704532953?e=2147483647&v=beta&t=CSXizC9-Og1-r3RbhMXxAl5H3eYtyYnaQj5NSvHZWgw">
+<img align="center" width="800" height="400" src="https://media.licdn.com/dms/image/v2/D5612AQF9yv1zwY1uyw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1727704532953?e=2147483647&v=beta&t=CSXizC9-Og1-r3RbhMXxAl5H3eYtyYnaQj5NSvHZWgw">
 
 <h1 align="center">Hi 👋, I'm Sonali Gawade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
